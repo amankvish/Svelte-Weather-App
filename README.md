@@ -1,10 +1,7 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Clone the  project
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+git clone https://github.com/amankvish/Svelte-Weather-App.git
 
 ```bash
 # create a new project in the current directory
@@ -16,7 +13,10 @@ npm create svelte@latest my-app
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+cd and change the directory of the project
+
+Once you've created a project and installed dependencies with `npm install`, 
+start a development server:
 
 ```bash
 npm run dev
@@ -35,4 +35,8 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+# Check the live status of the project
+
+  https://iot-weather-app.netlify.app/
+
+  
